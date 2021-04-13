@@ -1,0 +1,11 @@
+C:\Users\Justin\Desktop\Development\Decipher\obj\Debug\netcoreapp2.1\Decipher.csprojAssemblyReference.cache
+C:\Users\Justin\Desktop\Development\Decipher\obj\Debug\netcoreapp2.1\Decipher.csproj.CoreCompileInputs.cache
+C:\Users\Justin\Desktop\Development\Decipher\obj\Debug\netcoreapp2.1\Decipher.AssemblyInfoInputs.cache
+C:\Users\Justin\Desktop\Development\Decipher\obj\Debug\netcoreapp2.1\Decipher.AssemblyInfo.cs
+C:\Users\Justin\Desktop\Development\Decipher\bin\Debug\netcoreapp2.1\Decipher.deps.json
+C:\Users\Justin\Desktop\Development\Decipher\bin\Debug\netcoreapp2.1\Decipher.runtimeconfig.json
+C:\Users\Justin\Desktop\Development\Decipher\bin\Debug\netcoreapp2.1\Decipher.runtimeconfig.dev.json
+C:\Users\Justin\Desktop\Development\Decipher\bin\Debug\netcoreapp2.1\Decipher.dll
+C:\Users\Justin\Desktop\Development\Decipher\bin\Debug\netcoreapp2.1\Decipher.pdb
+C:\Users\Justin\Desktop\Development\Decipher\obj\Debug\netcoreapp2.1\Decipher.dll
+C:\Users\Justin\Desktop\Development\Decipher\obj\Debug\netcoreapp2.1\Decipher.pdb
